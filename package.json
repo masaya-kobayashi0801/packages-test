@@ -1,0 +1,19 @@
+{
+  "name": "@masaya-kobayashi0801/packages-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masaya-kobayashi0801/packages-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masaya-kobayashi0801/packages-test/issues"
+  },
+  "homepage": "https://github.com/masaya-kobayashi0801/packages-test#readme"
+}
